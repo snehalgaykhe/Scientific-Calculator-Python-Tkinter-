@@ -30,13 +30,12 @@ This is a GUI-based Scientific Calculator built using Python and Tkinter. It per
 
 ▶️ How to Run
 
-Clone this repository:
+1️⃣ Download the project as a ZIP file and extract it
+👉 Click the green Code button (top-right) → Download ZIP
 
-git clone https://github.com/your-username/scientific-calculator.git
-cd scientific-calculator
+2️⃣ Open the folder in your system
 
-
-Run the script:
+3️⃣ Run the script:
 
 python calculator.py
 
